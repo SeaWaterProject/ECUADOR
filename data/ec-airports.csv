@@ -1,0 +1,357 @@
+id,ident,type,name,latitude_deg,longitude_deg,elevation_ft,continent,country_name,iso_country,region_name,iso_region,local_region,municipality,scheduled_service,gps_code,iata_code,local_code,home_link,wikipedia_link,keywords,score,last_updated
+308273,SEQM,large_airport,"Mariscal Sucre International Airport",-0.125399,-78.354306,7841,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Quito,1,SEQM,UIO,UIO,https://www.aeropuertoquito.aero/?lang=en,https://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport,"Nuevo Aeropuerto Internacional Mariscal Sucre",1000,2024-05-09T15:00:40+00:00
+6056,SEGU,large_airport,"José Joaquín de Olmedo International Airport",-2.15742,-79.883598,19,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayaquil,1,SEGU,GYE,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Joaqu%C3%ADn_de_Olmedo_International_Airport,"Simon Bolivar International Airport",1050,2021-07-31T17:42:30+00:00
+6055,SEGS,small_airport,"Seymour Galapagos Ecological Airport",-0.453758,-90.2659,207,SA,Ecuador,EC,"Galapagos Province",EC-W,W,"Isla Baltra",1,SEGS,GPS,,,https://en.wikipedia.org/wiki/Seymour_Airport,,150,2023-10-18T20:59:45+00:00
+6073,SEQU,heliport,"Mariscal Sucre Air Base",-0.136782,-78.490598,9228,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Quito,0,,,,http://www.aeropuertoquito.aero/,https://en.wikipedia.org/wiki/Old_Mariscal_Sucre_International_Airport,"Quito, Ecuador, Dangerous, Closed, Mountains, Volcano, America, Middle of the world, SEQU",475,2022-11-24T09:06:36+00:00
+6079,SEST,small_airport,"San Cristóbal Airport",-0.910206,-89.617401,62,SA,Ecuador,EC,"Galapagos Province",EC-W,W,"Puerto Baquerizo Moreno",1,SEST,SCY,,,https://en.wikipedia.org/wiki/San_Cristóbal_Airport,,150,2023-11-16T00:01:42+00:00
+6054,SECU,medium_airport,"Mariscal Lamar Airport",-2.88947,-78.984398,8306,SA,Ecuador,EC,"Azuay Province",EC-A,A,Cuenca,1,SECU,CUE,,,https://en.wikipedia.org/wiki/Mariscal_Lamar_International_Airport,,750,2018-09-16T04:08:13+00:00
+6066,SEMT,medium_airport,"Eloy Alfaro International Airport",-0.9460780024528503,-80.67880249023438,48,SA,Ecuador,EC,"Manabi Province",EC-M,M,Manta,1,SEMT,MEC,,,https://en.wikipedia.org/wiki/Manta_Air_Base,,750,2008-06-13T14:30:04+00:00
+41131,SEII,small_airport,"General Villamil Airport",-0.942628,-90.953003,35,SA,Ecuador,EC,"Galapagos Province",EC-W,W,"Puerto Villamil",1,SEII,IBB,,,,,100,2022-01-14T14:45:05+00:00
+6053,SECO,medium_airport,"Francisco De Orellana Airport",-0.462886,-76.986801,834,SA,Ecuador,EC,"Orellana Province",EC-D,D,Coca,1,SECO,OCC,,,https://en.wikipedia.org/wiki/Francisco_de_Orellana_Airport,,750,2024-05-16T20:26:14+00:00
+6061,SELT,medium_airport,"Cotopaxi International Airport",-0.906833,-78.615799,9205,SA,Ecuador,EC,"Cotopaxi Province",EC-X,X,Latacunga,1,SELT,LTX,,,https://en.wikipedia.org/wiki/Cotopaxi_International_Airport,"Latacunga, Vulcano, Ecuador, Cargo, Long runway, Height",500,2021-07-31T17:40:42+00:00
+6084,SETN,medium_airport,"Carlos Concha Torres International Airport",0.978519,-79.626602,32,SA,Ecuador,EC,"Esmeraldas Province",EC-E,E,Tachina,1,SETN,ESM,,,https://en.wikipedia.org/wiki/Colonel_Carlos_Concha_Torres_Airport,"General Rivadeneira",500,2023-09-21T01:16:06+00:00
+6075,SERO,medium_airport,"Santa Rosa - Artillery Colonel Victor Larrea International Airport",-3.441986,-79.996957,20,SA,Ecuador,EC,"El Oro Province",EC-O,O,"Santa Rosa",1,SERO,ETR,,,https://en.wikipedia.org/wiki/Santa_Rosa_International_Airport,"Machala International Airport",500,2022-11-24T07:39:40+00:00
+309411,TNW,medium_airport,"Jumandy Airport",-1.060185,-77.580525,1234,SA,Ecuador,EC,"Napo Province",EC-N,N,Ahuano,0,SEJD,TNW,,http://www.dgac.gob.ec/tena/,https://en.wikipedia.org/wiki/Jumandy_Airport,Tena,250,2023-10-28T00:01:56+00:00
+6051,SEAM,medium_airport,"Chachoán Regional Airport",-1.21207,-78.5746,8502,SA,Ecuador,EC,"Tungurahua Province",EC-T,T,Ambato,0,SEAM,ATF,,,https://en.wikipedia.org/wiki/Chachoan_Airport,"Chachoan, Izamba",250,2023-09-22T15:03:46+00:00
+6062,SEMA,medium_airport,"Jose Maria Velasco Ibarra Airport",-4.37823009491,-79.94100189210002,1508,SA,Ecuador,EC,"Loja Province",EC-L,L,Macará,0,SEMA,MRR,,,https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Velasco_Ibarra_Airport,,250,2010-01-21T13:45:14+00:00
+6064,SEMH,closed,"General Manuel Serrano Airport",-3.2689,-79.961601,11,SA,Ecuador,EC,"El Oro Province",EC-O,O,Machala,0,,,,,https://en.wikipedia.org/wiki/General_Manuel_Serrano_Airport,"MCH, SEMH",250,2022-03-08T21:22:39+00:00
+41120,SEJM,small_airport,"Jama Airport",-0.20149700343608856,-80.2654037475586,37,SA,Ecuador,EC,"Manabi Province",EC-M,M,Jama,0,SEJM,,,,,,50,2008-08-08T17:18:12+00:00
+32277,SENL,small_airport,"Nueva Loja Airport",0.0930560007691,-76.86750030520001,980,SA,Ecuador,EC,"Sucumbios Province",EC-U,U,"Lago Agrio",0,SENL,LGQ,,,https://en.wikipedia.org/wiki/Lago_Agrio_Airport,"SELA, Lago Agrio,",50,2010-01-21T13:47:14+00:00
+6074,SERB,small_airport,"Chimborazo Airport",-1.653324,-78.656342,9151,SA,Ecuador,EC,"Chimborazo Province",EC-H,H,Riobamba,0,SERB,,,,https://en.wikipedia.org/wiki/Chimborazo_Airport,,50,2023-09-21T12:11:19+00:00
+317181,EC-0003,closed,"Old Santa Rosa Airport",-3.435141,-79.977604,170,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"Santa Rosa",0,,,,,https://en.wikipedia.org/w/index.php?title=Santa_Rosa_International_Airport&oldid=550363164,"ETR, SERO",50,2023-10-21T19:46:17+00:00
+2171,SE02,small_airport,"Guabital Airport",-2.773399,-79.702411,45,SA,Ecuador,EC,"Guayas Province",EC-G,G,Soledad,0,SEGB,,,,,SE02,50,2023-10-18T14:50:25+00:00
+6063,SEMC,medium_airport,"Coronel E Carvajal Airport",-2.2991700172424316,-78.12079620361328,3452,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Macas,1,SEMC,XMS,,,https://en.wikipedia.org/wiki/Macas_Airport,,750,2008-08-08T17:18:24+00:00
+6086,SETU,medium_airport,"Lieutenant Colonel Luis A. Mantilla International Airport",0.809506,-77.708099,9649,SA,Ecuador,EC,"Carchi Province",EC-C,C,Tulcán,1,SETU,TUA,,,https://en.wikipedia.org/wiki/Teniente_Coronel_Luis_a_Mantilla_International_Airport,"Teniente Coronel Luis A. Mantilla",750,2022-11-24T09:30:23+00:00
+6076,SESA,medium_airport,"General Ulpiano Paez Airport",-2.210057,-80.985067,18,SA,Ecuador,EC,"Santa Elena Province",EC-25,25,Salinas,0,SESA,SNC,,,https://en.wikipedia.org/wiki/General_Ulpiano_Paez_Airport,,325,2023-09-22T16:10:31+00:00
+6071,SEPV,medium_airport,"Reales Tamarindos Airport",-1.04165,-80.472198,130,SA,Ecuador,EC,"Manabi Province",EC-M,M,Portoviejo,0,SEPV,PVO,,,https://en.wikipedia.org/wiki/Reales_Tamarindos_Airport,,250,2024-05-16T20:26:36+00:00
+6085,SETR,medium_airport,"Tarapoa Airport",-0.122956,-76.337799,814,SA,Ecuador,EC,"Sucumbios Province",EC-U,U,Tarapoa,0,SETR,TPC,,,https://en.wikipedia.org/wiki/Tarapoa_Airport,,250,2023-12-19T18:16:28+00:00
+6083,SETM,small_airport,"Ciudad de Catamayo Airport",-3.995606,-79.371902,4056,SA,Ecuador,EC,"Loja Province",EC-L,L,"La Toma (Catamayo)",1,SECA,LOH,,,https://en.wikipedia.org/wiki/Ciudad_de_Catamayo_Airport,"SETM, Camilo Ponce Enriquez",150,2023-09-20T12:23:46+00:00
+525294,SEML,small_airport,"Manglaralto Airport",-1.844848,-80.73696,30,SA,Ecuador,EC,"Guayas Province",EC-G,G,,0,SEML,,,,,,50,2024-04-10T17:41:43+00:00
+525309,SESH,small_airport,"San Honorato Airport",-1.113791,-79.680157,20,SA,Ecuador,EC,"Guayas Province",EC-G,G,,0,SESH,,,,,,50,2024-04-10T19:01:28+00:00
+525312,SEPN,small_airport,"Panamao Airport",-2.421208,-80.65012,26,SA,Ecuador,EC,"Guayas Province",EC-G,G,,0,SEPN,,,,,,50,2024-04-10T19:06:06+00:00
+526481,SETO,small_airport,"Andes Aeroclub Airport",0.061667,-78.222833,9760,SA,Ecuador,EC,"Pichincha Province",EC-P,P,,0,SETO,,,,,,50,2024-04-22T18:23:25+00:00
+525310,SEVS,small_airport,"Casa Vinces Airport",-1.30789,-79.560124,151,SA,Ecuador,EC,"Los Rios Province",EC-R,R,,0,SEVS,,,,,,50,2024-04-10T19:02:59+00:00
+525311,SERI,small_airport,"Maria Cristina Airport",-1.177302,-79.496123,269,SA,Ecuador,EC,"Los Rios Province",EC-R,R,,0,SERI,,,,,,50,2024-04-10T19:04:20+00:00
+324021,EC-0019,small_airport,"Santa Rosa 2 Airstrip",-2.212734,-77.572687,,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,,0,,,,,,,50,2017-06-22T09:56:15+00:00
+323810,EC-0009,small_airport,"Yuca Life Airstrip",-1.497908,-77.474409,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,,0,,,,,,,50,2017-06-12T12:23:14+00:00
+512193,SEAC,small_airport,"Acado Airport",-1.397507,-77.19885,1102,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Acado,0,SEAC,,,,,"Tono Akoro",50,2023-09-19T15:25:42+00:00
+324028,EC-0026,small_airport,"Achuar Airstrip",-2.023662,-77.468825,1450,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Achuar,0,SEAT,,,,,Cotosaz,50,2023-09-22T20:01:28+00:00
+512199,SEAH,small_airport,"Achuentza Airport",-2.833653,-77.761799,902,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Achuentza,0,SEAH,,,,,,50,2023-09-19T20:04:05+00:00
+353417,EC-0045,small_airport,"Puná Southwest Airport",-3.01335,-80.257,15,SA,Ecuador,EC,"Guayas Province",EC-G,G,Aguada,0,,,,,,,50,2022-11-24T07:52:53+00:00
+512190,EC-0056,small_airport,"Aguayo Airport",-2.928941,-80.075941,10,SA,Ecuador,EC,"Guayas Province",EC-G,G,Aguayo,0,SEAA,,,,,,50,2023-09-22T01:55:38+00:00
+516151,SEOC,small_airport,"Alto Corrientes Airstrip",-1.910051,-76.9596,1048,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Alto Corrientes",0,SEOC,,,,,,50,2023-11-29T19:06:04+00:00
+41105,SEIS,small_airport,"Isabel Maria Airport",-1.86667001247406,-79.7332992553711,20,SA,Ecuador,EC,"Guayas Province",EC-G,G,América,0,SEIS,,,,,,50,2008-08-08T17:17:55+00:00
+323836,EC-0016,small_airport,"Andoas Airstrip",-2.568889,-76.660795,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Andoas,0,,,,,,,50,2017-06-13T05:07:59+00:00
+41132,SEAR,small_airport,"Arajuno Airport",-1.2357300519943237,-77.6854019165039,1700,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Arajuno,0,SEAR,,,,,,50,2008-08-08T17:18:28+00:00
+41123,SEAS,closed,"Ascazubi Airport",-0.083333,-78.283333,9517,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Ascazubi,0,,,,,,SEAS,50,2022-11-24T09:22:55+00:00
+512583,SEXP,small_airport,"Atacapi Airstrip",-1.353683,-77.621933,1601,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Atacapi,0,SEXP,,,,,,50,2023-09-27T11:38:15+00:00
+324040,EC-0034,small_airport,"Atatakuinjia Airstrip",-1.649742,-77.047942,985,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Atatakuinjia,0,SEKJ,,,,,"Kapawi Ecolodge",50,2023-10-29T13:03:49+00:00
+41104,SEAY,small_airport,"Ayangue Airport",-1.977683,-80.745158,16,SA,Ecuador,EC,"Santa Elena Province",EC-25,25,Ayangue,0,SEAY,,,,,"San Pedro",50,2023-09-22T15:59:38+00:00
+324023,EC-0021,small_airport,"Ayuy Airstrip",-2.082567,-77.580241,,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Ayuy,0,,,,,,,50,2017-06-22T10:01:23+00:00
+514837,SEKT,small_airport,"Kusutka Airstrip",-2.096276,-77.641338,1865,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Ayuy,0,SEKT,,,,,,50,2023-11-12T23:14:17+00:00
+41124,SE13,small_airport,"Babahoyo North Airport",-1.7033530473709106,-79.53804779052734,29,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Babahoyo,0,SE13,,SE13,,,,50,2008-08-08T17:18:20+00:00
+515372,SELL,small_airport,"La Lolita Airport.",-1.718359,-79.591112,30,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Babahoyo,0,SELL,,,,,,50,2023-11-19T23:16:03+00:00
+517396,SETS,small_airport,"Tsentsakentza Airstrip",-2.55673,-77.401593,882,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Bacundo,0,SETS,,,,,,50,2023-12-19T17:37:13+00:00
+6080,SESV,small_airport,"Los Perales Airport",-0.608111,-80.402702,10,SA,Ecuador,EC,"Manabi Province",EC-M,M,"Bahía de Caraquez",0,SESV,BHA,,,https://en.wikipedia.org/wiki/Los_Perales_Airport,"SEBC, San Vicente",50,2023-11-03T12:20:27+00:00
+512463,SEYJ,small_airport,"La Joya Airport",-2.889273,-79.650605,322,SA,Ecuador,EC,"Guayas Province",EC-G,G,Balao,0,SEYJ,,,,,,50,2023-09-25T10:32:02+00:00
+512465,SEIA,small_airport,"La Maria Airport",-2.898919,-79.812775,26,SA,Ecuador,EC,"Guayas Province",EC-G,G,Balao,0,SEIA,,,,,,50,2023-09-25T10:57:18+00:00
+513767,SEGH,small_airport,"Hacienda Gran Chaparral Airport",-1.274146,-79.932926,622,SA,Ecuador,EC,"Guayas Province",EC-G,G,Balzar,0,SEGH,,,,,,50,2023-10-25T17:06:18+00:00
+512407,SEBL,small_airport,"Balzaura Airstrip",-1.947116,-76.308024,751,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Balzaura,0,SEBL,,,,,,50,2023-09-24T12:44:54+00:00
+512419,SEBW,small_airport,"Boanamo Airstrip",-1.260964,-76.387219,860,SA,Ecuador,EC,"Orellana Province",EC-D,D,Boanamo,0,SEBW,,,,,,50,2023-09-24T14:56:29+00:00
+2170,SE01,small_airport,"Alba Elena Airport",-2.173581,-79.280763,150,SA,Ecuador,EC,"Guayas Province",EC-G,G,Bucay,0,SEAE,,,,,"SE01, Coronel Marcelino Mariduena",50,2023-11-02T17:06:41+00:00
+2174,SE09,small_airport,"San Rafael Airport",-2.174602,-79.234887,190,SA,Ecuador,EC,"Guayas Province",EC-G,G,Bucay,0,SESR,,,,,SE09,50,2023-11-15T23:27:33+00:00
+41126,SEBF,closed,"Buena Fe Airport",-0.837328,-79.486759,320,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"Buena Fe",0,,,,,,"SEBF, SEBF",50,2022-01-14T14:34:54+00:00
+513042,SEWO,small_airport,"Wongkinmay Airport",-0.695957,-79.417448,449,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"Buena Fe",0,SEWO,,,,,,50,2023-10-08T15:01:09+00:00
+2178,SE58,small_airport,"Solbananas Airport",-3.34094,-79.8638,9,SA,Ecuador,EC,"El Oro Province",EC-O,O,Buenavista,0,SEBA,,,,,"SE58, Banasur",50,2023-09-23T00:53:23+00:00
+512239,SECY,small_airport,"Camaguay Airport",-2.534167,-80.137167,13,SA,Ecuador,EC,"Guayas Province",EC-G,G,Camaguay,0,SECY,,,,,,50,2023-09-20T21:30:27+00:00
+515284,SENB,small_airport,"Nueva Canusa Airstrip",-2.407136,-77.740141,1110,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Canusa,0,SENB,,,,,Cangaimine,50,2023-11-18T20:55:30+00:00
+514871,SEKY,small_airport,"Kayamentza Airstrip",-2.005646,-77.73578,2175,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Capadino Entza",0,SEKY,,,,,,50,2023-11-13T20:21:41+00:00
+324027,EC-0025,small_airport,"Capauari Airstrip",-2.070324,-77.173335,1093,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Capauari,0,SEPH,,,,,Capahuari,50,2023-12-01T20:28:28+00:00
+41595,EC-0001,small_airport,"Carabon Airport",-3.6285500526428223,-80.18779754638672,126,SA,Ecuador,EC,"El Oro Province",EC-O,O,Carabon,0,,,,,,,50,2008-08-27T07:58:14+00:00
+512238,SECZ,small_airport,"Cerro Azul Airport",-2.205134,-80.049993,1772,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Cerro Azul",0,SECZ,,,,,,50,2023-09-20T21:14:08+00:00
+323835,EC-0015,small_airport,"Chichirata Airstrip",-2.38364,-76.656656,844,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Chichirata,0,SEHT,,,,,,50,2023-10-20T01:41:38+00:00
+514875,SEKX,small_airport,"Shinkiatam Airstrip",-2.462189,-77.459466,925,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Chimbucta,0,SEKX,,,,,,50,2023-11-13T21:31:19+00:00
+41116,SECH,small_airport,"Chone Airport",-0.6951010227203369,-80.0886001586914,51,SA,Ecuador,EC,"Manabi Province",EC-M,M,Chone,0,SECH,,,,,,50,2008-08-08T17:18:08+00:00
+512526,SECG,small_airport,"Chongón Airstrip",-2.230291,-80.054455,36,SA,Ecuador,EC,"Guayas Province",EC-G,G,Chongón,0,SECG,,,,,,50,2023-09-26T11:55:01+00:00
+513037,SEEX,small_airport,"Exportamar Airstrip",-2.515499,-80.221437,10,SA,Ecuador,EC,"Guayas Province",EC-G,G,Chongón,0,SEEX,,,,,,50,2023-10-08T14:17:13+00:00
+515366,SELD,small_airport,"Loma Alta Airport",-2.2078,-80.083339,215,SA,Ecuador,EC,"Guayas Province",EC-G,G,Chongón,0,SELD,,,,,Guayaquil,50,2023-11-19T18:26:41+00:00
+513768,SEHU,small_airport,"Chuindia Airstrip",-2.014083,-76.681475,752,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Chuindia,0,SEHU,,,,,Shuntza,50,2023-10-25T17:24:36+00:00
+517378,SEUC,small_airport,"Cuchintza Airstrip",-2.603056,-77.116389,833,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Chumbela,0,SEUC,,,,,Kuchintza,50,2023-12-19T13:58:56+00:00
+513431,SEHB,small_airport,"Chumbi Airstrip",-2.09847,-77.477692,1404,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Chumbi,0,SEHB,,,,,,50,2023-10-18T21:56:11+00:00
+41117,SECQ,small_airport,"Coaque Airport",0.016175,-80.091923,131,SA,Ecuador,EC,"Manabi Province",EC-M,M,Coaque,0,SECQ,,,,,,50,2024-03-09T11:37:05+00:00
+517464,SEON,small_airport,"Conambo Airport",-1.871397,-76.877802,785,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Conambo,0,SEON,,,,,,50,2023-12-20T12:46:04+00:00
+324039,EC-0033,small_airport,"Cononaco Bameno Airstrip",-1.298779,-76.154546,840,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Cononaco Bameno",0,SECB,,,,,"Cabaña Yasuni",50,2023-09-26T13:46:15+00:00
+517324,SEUK,small_airport,"Kuankua Airstrip",-2.148425,-77.3572,1203,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Copataza,0,SEUK,,,,,,50,2023-12-18T21:51:09+00:00
+324024,EC-0022,small_airport,"Copataza Airstrip",-2.090779,-77.446868,1350,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Copataza,0,SEOZ,,,,,,50,2023-12-01T19:34:09+00:00
+41102,SE14,small_airport,"San Carlos Airport",-2.21775,-79.43136,126,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Coronel Marcelino Maridueña",0,SESN,,,,,SE14,50,2023-11-14T14:48:02+00:00
+41112,SEHI,closed,"Cotacachi Airport",0.29278,-78.25904,7824,SA,Ecuador,EC,"Imbabura Province",EC-I,I,Cotacachi,0,,,,,,SEHI,50,2022-11-24T09:19:04+00:00
+512272,SERS,small_airport,"Cristal Airport",-0.999248,-79.358836,120,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Cotopaxi,0,SERS,,,,,,50,2023-09-21T14:11:00+00:00
+512426,SEBZ,small_airport,"Cumbaratza Airport",-4.018793,-78.887293,2871,SA,Ecuador,EC,"Zamora-Chinchipe Province",EC-Z,Z,Cumbaratza,0,SEBZ,,,,,,50,2023-09-24T18:45:12+00:00
+41133,SECR,small_airport,"Curaray Airport",-1.384465,-76.938944,832,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Curacay,0,SECR,,,,,,50,2017-06-12T10:02:23+00:00
+512434,SEYH,small_airport,"Cuyacocha Airstrip",-1.615763,-76.942377,899,SA,Ecuador,EC,"Tungurahua Province",EC-T,T,Cuyacocha,0,SEYH,,,,,,50,2023-09-24T23:54:29+00:00
+512674,SEDM,small_airport,"Damointaro Airstrip",-1.294722,-77.319722,1099,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Damointaro,0,SEDM,,,,,,50,2023-09-29T18:32:35+00:00
+513385,SEFR,small_airport,"Hacienda La Fragua Airport",-1.869181,-80.011529,16,SA,Ecuador,EC,"Guayas Province",EC-G,G,Daule,0,SEFR,,,,,,50,2023-10-18T02:19:09+00:00
+512595,SEDA,small_airport,"Dualar Airstrip",-2.361448,-80.162387,3,SA,Ecuador,EC,"Guayas Province",EC-G,G,"El Consuelo",0,SEDA,,,,,,50,2023-09-27T19:36:02+00:00
+2179,SE59,small_airport,"La Mina Airport",-3.202759,-79.79825,13,SA,Ecuador,EC,"El Oro Province",EC-O,O,"El Guabo",0,SEIN,,,,,SE59,50,2023-10-26T14:06:15+00:00
+353415,EC-0043,small_airport,"Barbones - Samuel Quimi Airport",-3.18885,-79.86874,20,SA,Ecuador,EC,"El Oro Province",EC-O,O,"El Guabo",0,SESQ,,,,,,50,2023-11-15T23:14:48+00:00
+512671,SEDF,small_airport,"Delfines Airstrip",-2.58906,-80.291019,52,SA,Ecuador,EC,"Guayas Province",EC-G,G,"El Morro",0,SEDF,,,,,,50,2023-09-29T18:04:40+00:00
+512914,SEEO,small_airport,"El Morro Airstrip",-2.643455,-80.350049,59,SA,Ecuador,EC,"Guayas Province",EC-G,G,"El Morro",0,SEEO,,,,,,50,2023-10-05T12:50:31+00:00
+512421,SEBX,small_airport,"Probana Airport",-2.605359,-79.614612,79,SA,Ecuador,EC,"Guayas Province",EC-G,G,"El Recreo",0,SEBX,,,,,,50,2023-09-24T15:24:41+00:00
+41111,SEVR,closed,"El Vergel Airport",-1.746606,-78.608558,9002,SA,Ecuador,EC,"Chimborazo Province",EC-H,H,"El Vergel",0,,,,,,SEVR,50,2022-11-24T08:38:48+00:00
+512323,SEAQ,small_airport,"Aquapesca Airstrip",-2.496764,-80.552155,49,SA,Ecuador,EC,"Santa Elena Province",EC-25,25,Engunga,0,SEAQ,,,,,Chanduy,50,2023-11-03T11:04:10+00:00
+512917,SEER,small_airport,Palpailón,1.221636,-78.868266,69,SA,Ecuador,EC,"Esmeraldas Province",EC-E,E,Esmeraldas,0,SEER,,,,,"Palmeras del Pailon",50,2023-10-05T13:54:57+00:00
+513034,SEET,small_airport,"Etsa Airstrip",-2.905964,-77.575509,702,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Etza,0,SEET,,,,,"Vargas Guerra",50,2023-10-29T17:48:43+00:00
+515029,SESP,small_airport,"San Andres Airport",-2.578345,-80.034351,6,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Golfo de Guayaquil",0,SESP,,,,,"Puerto Salinas",50,2023-11-15T20:13:15+00:00
+516176,SEOI,small_airport,"Matorrillos Airport",-2.436371,-79.83377,20,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Golfo de Guayaquil",0,SEOI,,,,,"Santa Domingo Chico",50,2023-11-29T22:45:41+00:00
+41118,SEGE,small_airport,"Guale Airport",-1.61667001247406,-80.2332992553711,222,SA,Ecuador,EC,"Manabi Province",EC-M,M,Guale,0,SEGE,,,,,,50,2008-08-08T17:18:10+00:00
+513425,SEGR,small_airport,"Guaraní Airstrip",-2.235544,-77.240177,1034,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Guaraní,0,SEGR,,,,,,50,2023-10-18T20:54:04+00:00
+513417,SEGL,small_airport,"Guarumal Airport",-1.860214,-79.642868,59,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Guarumal,0,SEGL,,,,,,50,2023-10-18T15:05:34+00:00
+505095,EC-0050,small_airport,"Los Rebeldes Airpark",-2.28323,-80.10262,105,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayaquil,0,,,,,,,50,2022-11-24T08:13:18+00:00
+512319,SEAL,small_airport,"Algarrobo Airstrip",-2.288551,-80.019765,36,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayaquil,0,SEAL,,,,,,50,2023-09-22T14:33:23+00:00
+512597,SEDB,small_airport,"Aerocisne Airport",-2.551863,-79.492396,177,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayas,0,SEDB,,,,,,50,2023-09-27T20:27:34+00:00
+41109,SEPX,small_airport,"Payo Airport",-2.292292,-79.50222,46,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Hacienda Payo",0,SEPX,,,,,,50,2024-04-23T04:42:01+00:00
+514913,SESJ,small_airport,"San José Airport",-1.893894,-79.490485,36,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Hacienda San José",0,SESJ,,,,,,50,2023-11-14T11:08:58+00:00
+351437,EC-0035,small_airport,"Holandesa Airport",-0.72495,-79.46976,445,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Holandesa,0,,,,,,,50,2022-01-14T14:24:37+00:00
+513553,EC-0061,small_airport,"Nases Airstrip",-2.559842,-77.172101,900,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Huasaga,0,SEHG,,,,,SEHS,50,2023-10-21T14:44:36+00:00
+513988,SEKF,small_airport,"Kuserua Airstrip",-2.607173,-76.934738,855,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Huasaga,0,SEKF,,,,,Kuservantz,50,2023-10-29T02:07:25+00:00
+323814,EC-0013,small_airport,"Huito Molino Airstrip",-1.828625,-77.321688,1240,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Huito Molino",0,SEIO,,,,,,50,2023-10-26T15:38:23+00:00
+6058,SEIB,closed,"Atahualpa Airport",0.338419,-78.136398,7304,SA,Ecuador,EC,"Imbabura Province",EC-I,I,Ibarra,0,,,,,,SEIB,50,2022-11-24T09:19:40+00:00
+512369,SEZI,small_airport,"Imatiño Airstrip",-1.918108,-76.625161,714,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Imatiño,0,SEZI,,,,,,50,2023-09-23T13:40:30+00:00
+513503,SEIY,small_airport,"Iñaywa Sur Airstrip",-2.748776,-77.443761,755,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Iñaywa Sur",0,SEIY,,,,,Iniayua,50,2023-10-20T22:44:49+00:00
+514841,SEKV,small_airport,"Kurinua Airstrip",-2.695432,-77.379026,820,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Iniayu,0,SEKV,,,,,,50,2023-11-13T00:17:51+00:00
+513842,SEIP,small_airport,"Ipiak Airstrip",-2.467547,-77.145839,909,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Ipiak,0,SEIP,,,,,,50,2023-10-26T16:19:37+00:00
+513777,SEID,small_airport,"Ishpingo de Amuntay Airstrip",-2.566312,-76.756598,826,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Ishpingo de Amuntay",0,SEID,,,,,Amunta,50,2023-10-26T00:17:58+00:00
+513818,SEIH,small_airport,"Ishpink Airstrip",-2.316061,-77.410011,1140,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Ishpink,0,SEIH,,,,,,50,2023-10-26T13:08:43+00:00
+512409,SEBM,small_airport,"Brisas del Mar Airstrip.",-2.828381,-80.020884,10,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Isla Puná",0,SEBM,,,,,,50,2023-09-24T12:57:47+00:00
+512676,SEDO,small_airport,"Colas de Oro Airport",-2.698472,-80.061409,3,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Isla Puná",0,SEDO,,,,,,50,2023-09-29T18:45:11+00:00
+512680,SEDS,small_airport,"Darsacom Airstrip",-2.723363,-80.13474,13,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Isla Puná",0,SEDS,,,,,,50,2023-09-29T19:45:24+00:00
+513562,SERL,small_airport,"Roble Mar Airport",-3.00529,-80.229,10,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Isla Puná,",0,SERL,,,,,,50,2023-10-21T20:10:29+00:00
+512564,SEXI,small_airport,"Itak Airstrip",-2.645666,-77.294678,870,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Itak,0,SEXI,,,,,,50,2023-09-27T04:52:17+00:00
+512752,SEIW,small_airport,"Iwia Airstrip",-2.071725,-77.523399,1499,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Iwia,0,SEIW,,,,,,50,2023-10-01T23:27:52+00:00
+513922,SEJA,small_airport,"Jandiyacua Airstrip",-1.730931,-77.109686,978,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Jandiyacu,0,SEJA,,,,,,50,2023-10-27T23:20:13+00:00
+513924,SEJE,small_airport,"Jempentza Airstrip",-2.744252,-77.487304,735,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Jempentza,0,SEJE,,,,,Jempents,50,2023-10-28T00:15:55+00:00
+514887,SESE,small_airport,"Secadal Airport",-2.579977,-79.516547,100,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Jesús María",0,SESE,,,,,"Las Mercedes",50,2023-11-14T00:03:59+00:00
+324025,EC-0023,small_airport,"Jimbiquiti Airstrip",-1.990084,-77.716252,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Jimbiquiti,0,,,,,,,50,2017-06-22T10:04:59+00:00
+513964,SEJZ,small_airport,"Jimiarentza Airstrip",-2.51669,-77.432241,886,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Jimiarentsa,0,SEJZ,,,,,Bacundo,50,2023-10-28T15:11:23+00:00
+41119,SEJI,small_airport,"Jipijapa Airport",-1,-80.66666412353516,223,SA,Ecuador,EC,"Manabi Province",EC-M,M,Jipijapa,0,SEJI,JIP,,,,,50,2008-08-08T17:18:11+00:00
+513952,SEJS,small_airport,"Joya de Los Sachas Airport",-0.328361,-76.879399,904,SA,Ecuador,EC,"Orellana Province",EC-D,D,"Joya de Los Sachas",0,SEJS,,,,,,50,2023-10-28T13:26:37+00:00
+6060,SELJ,small_airport,"Hacienda La Julia Airport",-1.70438,-79.552299,50,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Julia,0,SELJ,,,,,,50,2023-11-19T18:56:43+00:00
+513962,SEJY,small_airport,"Juyuintsa Airstrip",-2.116691,-76.20208,634,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Juyuintsa,0,SEJY,,,,,,50,2023-10-28T14:44:40+00:00
+513950,SEJK,small_airport,"Juyukamentza Airstrip",-2.721043,-77.240896,812,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Juyukam Entsa",0,SEJK,,,,,,50,2023-10-28T12:00:44+00:00
+513967,SEKA,small_airport,"Kaan Airstrip",-2.873817,-77.868204,891,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Kaank Chico",0,SEKA,,,,,"Vargas Guerra",50,2023-10-28T15:37:19+00:00
+513969,SEKC,small_airport,"Kaiptach Airfield",-2.639283,-77.127571,912,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Kaiptach,0,SEKC,,,,,Chumbela,50,2023-10-28T16:15:47+00:00
+512566,SEXK,small_airport,Kambantsa,-2.014226,-76.832401,1201,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Kambantsa,0,SEXK,,,,,,50,2023-09-27T05:17:06+00:00
+514030,SEKP,small_airport,"Kapatinentza Airstrip",-2.681793,-77.477093,80,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Kapatinentza,0,SEKP,,,,,,50,2023-10-29T14:25:51+00:00
+514842,SEKW,small_airport,"Kapawi Airstrip",-2.534276,-76.84217,850,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Kapawi,0,SEKW,,,,,,50,2023-11-13T00:31:56+00:00
+513851,SEIR,small_airport,"Kapirna Airstrip",-2.219802,-76.814087,941,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Kapirna,0,SEIR,,,,,,50,2023-10-26T16:49:35+00:00
+513855,SEIT,small_airport,"Kapitian Airstrip",-2.726732,-77.537105,753,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Kapitian,0,SEIT,,,,,,50,2023-10-26T17:21:24+00:00
+512371,SEZK,small_airport,"Karakam Airstrip",-2.785009,-77.408045,801,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Karakam,0,SEZK,,,,,Kukajentsa,50,2023-09-23T13:57:11+00:00
+513471,SEHS,small_airport,"Kashaints Airstrip",-2.698513,-77.536647,784,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Kashaints,0,SEHS,,,,,,50,2023-10-20T00:16:39+00:00
+513086,SEWX,small_airport,"Kawa Airstrip",-2.001295,-77.669082,2129,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Kawa,0,SEWX,,,,,,50,2023-10-09T15:11:28+00:00
+514877,SEKZ,small_airport,"Kayantza Airstrip",-2.174349,-77.368609,1274,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Kayantza,0,SEKZ,,,,,,50,2023-11-13T21:48:49+00:00
+514650,SEKQ,small_airport,"Kikints Airstrip",-2.301939,-77.357591,1180,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Kikints,0,SEKQ,,,,,,50,2023-11-10T00:15:48+00:00
+513995,SEKH,small_airport,"Kuakash Airfield",-2.033081,-77.670886,1979,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Kuakash,0,SEKH,,,,,Jimbiquiti,50,2023-10-29T02:35:00+00:00
+513558,SEUZ,small_airport,"Curintza Airstrip",-2.068437,-76.794788,965,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Kurintza,0,SEUZ,,,,,,50,2023-10-21T16:05:26+00:00
+513968,SEKB,small_airport,"Kusutkau Airstrip",-2.515333,-76.896588,885,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Kusutkau,0,SEKB,,,,,,50,2023-10-28T15:52:16+00:00
+512536,SECC,small_airport,"La Celeste Airport.",0.012807,-79.367843,650,SA,Ecuador,EC,"Santo Domingo de los Tsáchilas Province",EC-26,26,"La Concordia",0,SECC,,,,,,50,2023-09-26T14:00:32+00:00
+514027,SEKL,small_airport,"Silok Airport",-0.03085,-79.366315,825,SA,Ecuador,EC,"Santo Domingo de los Tsáchilas Province",EC-26,26,"La Concordia",0,SEKL,,,,,,50,2023-10-29T13:37:56+00:00
+351438,EC-0036,small_airport,"Ana María Airport",-0.96115,-79.4162,236,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"La Esperanza",0,SEAN,,,,,Quevedo,50,2023-09-21T13:06:52+00:00
+2180,SE60,small_airport,"La Puntilla Airport",-2.443333,-79.399167,195,SA,Ecuador,EC,"Cañar Province",EC-F,F,"La Puntilla",0,SELU,,,,,SE60,50,2023-11-21T16:00:13+00:00
+512268,SEIZ,small_airport,"Agroazucar Airport",-2.442218,-79.35504,151,SA,Ecuador,EC,"Cañar Province",EC-F,F,"La Troncal",0,SEIZ,,,,,"Ingenio Aztra",50,2023-09-21T11:14:45+00:00
+517392,SEUA,small_airport,"Guarumo Airport",-0.050556,-76.568889,838,SA,Ecuador,EC,"Sucumbios Province",EC-U,U,"Lago Agrio",0,SEUA,,,,,Pacayacu,50,2023-12-19T15:36:50+00:00
+513382,SEFU,small_airport,"Fumipalma Airport",-2.563699,-79.54552,67,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Las Mercedes",0,SEFU,,,,,,50,2023-10-18T01:34:11+00:00
+41129,SELI,small_airport,"Limoncocha Airport",-0.40636301040649414,-76.6238021850586,820,SA,Ecuador,EC,"Sucumbios Province",EC-U,U,Limoncocha,0,SELI,,,,,,50,2008-08-08T17:18:25+00:00
+41113,SE16,small_airport,"Loja Airport",-3.8814239501953125,-79.23474884033203,7684,SA,Ecuador,EC,"Loja Province",EC-L,L,Loja,0,SE16,,SE16,,,,50,2008-08-08T17:18:05+00:00
+32278,SELM,small_airport,"Loma Larga Airport",-1.501579999923706,-79.48090362548828,210,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"Loma Larga",0,SELM,,,,,,50,2008-08-03T11:48:55+00:00
+2173,SE08,small_airport,"San Carlos Costa Airport",-2.054719924926758,-79.43309783935547,21,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Lorenzo de Garaicoa",0,SE08,,SE08,,,,50,2008-08-08T17:17:49+00:00
+323805,EC-0005,small_airport,"Lorocachi Airstrip",-1.615731,-75.98772,630,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Lorocachi,0,SEOH,,,,,Ayamu,50,2023-11-29T21:54:26+00:00
+512532,SECI,small_airport,"Calica Airstrip",-2.516987,-80.13594,13,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Los Lojas",0,SECI,,,,,,50,2023-09-26T13:08:40+00:00
+512538,SECD,small_airport,"Calademar Airport",-2.584669,-79.964156,10,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Los Lojas",0,SECD,,,,,,50,2023-09-26T14:18:19+00:00
+32281,SEPZ,small_airport,"Los Perez Airport",-0.953189,-79.375331,75,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"Los Perez",0,SEPZ,,,,,,50,2022-01-14T09:04:50+00:00
+512584,SEXS,small_airport,"San Simón Airstrip",-0.749722,-79.365556,200,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"Los Rios",0,SEXS,,,,,,50,2023-09-27T11:55:04+00:00
+2176,SE11,small_airport,"Km 60 Airport",-0.536183,-79.371976,1640,SA,Ecuador,EC,"Santo Domingo de los Tsáchilas Province",EC-26,26,"Luz de América",0,SEKI,,,,,"SE11, Consumulo",50,2023-10-29T12:43:23+00:00
+323815,EC-0014,small_airport,"Macuma Airstrip",-2.145775,-77.700306,2300,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Macuma,0,SEAK,,,,,http://www.ais.aviacioncivil.gob.ec/aerodromo/show?aerodromo_sel=aerodromo&designador=SEAk&popup=&boton=Consultar,50,2023-09-22T14:50:57+00:00
+512191,SEAB,small_airport,"Mar Abierto Airport",-2.156493,-80.773187,10,SA,Ecuador,EC,"Santa Elena Province",EC-25,25,"Mar Abierto",0,SEAB,,,,,,50,2023-09-22T16:03:59+00:00
+512412,SEBP,small_airport,"Blanca Piedra Airstrip",-2.103534,-79.469433,36,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Mariscal Sucre",0,SEBP,,,,,,50,2023-09-24T13:40:46+00:00
+32279,SEMY,small_airport,"Martinica Airport",-1.7397199869155884,-79.62149810791016,90,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Martinica,0,SEMY,,,,,,50,2008-08-03T11:48:57+00:00
+513433,SEHE,small_airport,"Mashient Airstrip",-2.159177,-77.322834,1147,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Mashient,0,SEHE,,,,,,50,2023-10-18T22:50:04+00:00
+513773,SEHZ,small_airport,"Mashientenza Airstrip",-2.363793,-77.406923,1047,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Mashientenza,0,SEHZ,,,,,,50,2023-10-25T19:36:32+00:00
+513444,SEHN,small_airport,"Mashuin Airstrip",-2.616113,-76.916497,854,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Mashuin,0,SEHN,,,,,Mashumi,50,2023-11-13T00:35:32+00:00
+513467,SEHR,small_airport,"Masurash Airstrip",-2.205549,-77.265694,1107,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Masurash,0,SEHR,,,,,,50,2023-10-19T22:24:56+00:00
+513514,SEIV,small_airport,"Ingenio Valdez Airport",-2.111175,-79.599184,33,SA,Ecuador,EC,"Guayas Province",EC-G,G,Milagro,0,SEIV,,,,,,50,2023-10-21T01:01:09+00:00
+6065,SEMO,small_airport,"El Carmen Airport",-2.06701,-76.9757,960,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Montalvo,0,SEMO,,,,https://en.wikipedia.org/wiki/El_Carmen_Airport,,50,2024-05-18T22:45:53+00:00
+514206,EC-0062,small_airport,"Llanchamacocha Airstrip",-1.627303,-77.303546,1139,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Moretecocha,0,SENH,,,,,,50,2023-11-01T23:12:21+00:00
+513972,SEKE,small_airport,"Kenkuim Airstrip",-2.23362,-77.735664,1930,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Morona,0,SEKE,,,,,Cangaimine,50,2023-10-28T17:42:28+00:00
+512328,SEAU,small_airport,"Chau Airstrip",-2.823807,-77.771768,997,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Morona Santiago",0,SEAU,,,,,,50,2023-09-22T20:35:51+00:00
+512534,SECK,small_airport,"Chankuap Airstrip",-2.240933,-77.459008,1499,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Morona Santiago",0,SECK,,,,,,50,2023-09-26T13:22:19+00:00
+513778,SEIE,small_airport,"Iñaywa Norte Airdtrip",-2.162952,-77.484895,1389,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Morona Santiago",0,SEIE,,,,,,50,2023-10-26T00:34:15+00:00
+514878,SESB,small_airport,"Sebastián Airstrip",-2.641853,-77.15722,845,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Morona Santiago",0,SESB,,,,,"Chumbela, Sawastiab",50,2023-11-13T22:29:43+00:00
+516372,SEPA,small_airport,"Centro Paatin Airstrip",-2.247454,-77.712845,1898,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Morona Santiago",0,SEPA,,,,,,50,2023-12-01T19:49:51+00:00
+517459,SENF,small_airport,"Napurak Airstrip",-2.52258,-76.990489,942,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Napurak,0,SENF,,,,,Chumbela,50,2023-12-20T11:28:07+00:00
+513420,SEGO,small_airport,"Camacongo Airport",-2.770718,-79.767049,30,SA,Ecuador,EC,"Guayas Province",EC-G,G,Naranjal,0,SEGO,,,,,,50,2023-10-18T18:16:09+00:00
+516374,SEPE,small_airport,"Pechichal Airport",-2.658895,-79.618793,55,SA,Ecuador,EC,"Guayas Province",EC-G,G,Naranjal,0,SEPE,,,,,,50,2023-12-01T20:08:33+00:00
+514233,SEIM,small_airport,"Santa María Airport",-2.104494,-79.381905,147,SA,Ecuador,EC,"Guayas Province",EC-G,G,Naranjito,0,SEIM,,,,,,50,2023-11-02T11:27:06+00:00
+515287,SEND,small_airport,"Nemonpade Airstrip",-1.236018,-77.25913,1003,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Nemonpade,0,SEND,,,,,"Nemonpare, Tihuano",50,2023-11-18T21:36:50+00:00
+515289,SENE,small_airport,"Nuevo Corrientes Airstrip",-1.997976,-76.764307,814,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Nuevo Corrientes",0,SENE,,,,,Tambo,50,2023-11-18T21:57:21+00:00
+323803,EC-0004,small_airport,"Nuevo Rocafuerte Airstrip",-0.927875,-75.394383,,SA,Ecuador,EC,"Orellana Province",EC-D,D,"Nuevo Rocafuerte",0,,,,,,,50,2017-06-12T09:55:37+00:00
+512195,SEAD,small_airport,"Paandin Airport",-2.137235,-77.677402,2201,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Paandin,0,SEAD,,,,,,50,2023-11-02T16:47:00+00:00
+323811,EC-0010,small_airport,"Pacayacu Airstrip",-1.650816,-77.596069,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Pacayacu,0,,,,,,,50,2017-06-12T12:25:42+00:00
+518597,SEPK,small_airport,"Pakintza Airstrip",-2.32312,-77.276133,1070,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pakintza,0,SEPK,,,,,Pakints,50,2024-01-07T12:35:28+00:00
+512360,SEZA,small_airport,"Pampantza Airstrip",-2.554289,-77.443745,801,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pampantza,0,SEZA,,,,,Pampants,50,2023-09-23T11:06:49+00:00
+515367,SELK,small_airport,"Libertad Sur Airstrip",-2.802859,-77.569399,716,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Panientza,0,SELK,,,,,"Puerto Morona",50,2023-11-19T19:31:56+00:00
+2177,SE22,small_airport,"Celia María Airport",-3.27905,-79.80118,112,SA,Ecuador,EC,"El Oro Province",EC-O,O,Pasaje,0,SEEL,,,,,SE22,50,2023-10-05T11:47:21+00:00
+6070,SEPS,small_airport,"Amable Calle Gutierrez Airport",-3.31967,-79.769203,22,SA,Ecuador,EC,"El Oro Province",EC-O,O,Pasaje,0,SEPS,,,,,,50,2022-11-24T07:42:37+00:00
+512417,SEBU,small_airport,"Bufeo Airstrip",-2.192174,-76.784617,1099,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Pastaza,0,SEBU,,,,,,50,2023-09-24T14:32:49+00:00
+517318,SEYD,small_airport,"Yandana – Entsa Airstrip",-2.047949,-76.359451,662,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Pastaza,0,SEYD,,,,,,50,2023-12-18T20:12:20+00:00
+6069,SEPC,small_airport,"Patuca Airport",-2.75172,-78.263603,1781,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Patuca,0,SEPC,,,,,,50,2023-12-01T19:57:18+00:00
+323842,EC-0017,small_airport,"Patukmai Airstrip",-2.483436,-77.201006,905,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Patukmai,0,SEUX,,,,,Huasaga,50,2023-10-21T14:04:27+00:00
+323806,EC-0006,small_airport,"Pavacachi Airstrip",-1.578569,-76.353395,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Pavacachi,0,SEVA,,,,,,50,2023-10-21T17:41:07+00:00
+41106,SEPB,small_airport,"Pedro Carbo Airport",-1.8115930557250977,-80.23246002197266,321,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Pecro Carbo",0,SEPB,,,,,,50,2008-08-08T17:17:56+00:00
+41121,SEPD,small_airport,"Pedernales Airport",0.06761900335550308,-80.05049896240234,60,SA,Ecuador,EC,"Manabi Province",EC-M,M,Pedernales,0,SEPD,,,,,,50,2008-08-08T17:18:15+00:00
+514839,SEKU,small_airport,"Kupit Airstrip",-2.644734,-77.223029,860,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pedro,0,SEKU,,,,,,50,2023-11-12T23:43:20+00:00
+517328,SEUE,small_airport,"Pumpuentza Airstrip",-2.474584,-77.333041,941,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pedro,0,SEUE,,,,,Pumpuentsa,50,2023-12-18T22:33:18+00:00
+517375,SEUD,small_airport,"Muruntza Airstrip",-2.585928,-77.218528,890,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pedro,0,SEUD,,,,,Muruntsa,50,2023-12-19T13:43:34+00:00
+518563,SEOU,small_airport,"Molaute Airstrip",-0.076808,-79.134895,1476,SA,Ecuador,EC,"Pichincha Province",EC-P,P,"Pedro Vicente Maldonado",0,SEOU,,,,,,50,2024-01-06T23:44:03+00:00
+513505,SEIX,small_airport,"Pimpintza Airstrip",-2.275,-77.469444,1224,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pimpintza,0,SEIX,,,,,Pimpimtza,50,2023-10-20T23:14:25+00:00
+517412,SEPI,small_airport,"Pindoyacu Airstrip",-1.731878,-76.60763,686,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Pindoyacu,0,SEPI,,,,,,50,2023-12-19T23:17:15+00:00
+513857,SEIU,small_airport,"Pitiur Airstrip",-2.251998,-77.401788,1238,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pitiur,0,SEIU,,,,,,50,2023-10-26T17:35:52+00:00
+505093,EC-0048,small_airport,"Playas Airport",-2.6338,-80.40429,49,SA,Ecuador,EC,"Guayas Province",EC-G,G,Playas,0,SEPL,,,,,,50,2024-04-10T19:08:12+00:00
+41107,SEPO,small_airport,"Posorja Airport",-2.681735,-80.276606,30,SA,Ecuador,EC,"Guayas Province",EC-G,G,Posorja,0,SEPO,,,,,,50,2022-11-24T07:58:50+00:00
+505092,EC-0047,small_airport,"NIRSA Airport",-2.72034,-80.249194,16,SA,Ecuador,EC,"Guayas Province",EC-G,G,Posorja,0,SENX,,,,,"Negocios Industriales Real",50,2022-11-24T08:00:10+00:00
+6052,SECM,small_airport,"Hacienda Clementina Airport",-1.7062699794769287,-79.37889862060547,328,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Pozuelos,0,SECM,,,,,,50,2008-08-08T17:18:22+00:00
+513769,SEHV,small_airport,"Josema Airport",-2.33171,-80.20473,80,SA,Ecuador,EC,"Guayas Province",EC-G,G,Progreso,0,SEHV,,,,,,50,2023-10-25T17:38:13+00:00
+516185,SEOM,small_airport,"Langosmar Airport",-2.463834,-80.13694,30,SA,Ecuador,EC,"Guayas Province",EC-G,G,Progreso,0,SEOM,,,,,,50,2023-11-29T23:48:31+00:00
+513548,SEUR,small_airport,"Pucar Airport",-2.78881,-77.648093,770,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Pucar,0,SEUR,,,,,,50,2023-10-21T13:20:12+00:00
+514939,SESO,small_airport,"La Estrella Airport",-1.567288,-79.539826,47,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Puebloviejo,0,SESO,,,,,,50,2023-11-14T15:25:39+00:00
+6067,SEMX,small_airport,"Maragrosa Airport",-2.8511,-79.803596,18,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Puerto Balao",0,SEMX,,,,,,50,2022-11-24T07:47:31+00:00
+2172,SE03,small_airport,"Las Peñas Airport",-2.94716,-80.1007,3,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Puerto Grande",0,SEEN,,,,,SE03,50,2023-10-05T12:29:32+00:00
+41130,SEPT,small_airport,"Putumayo Airport",0.115949,-75.85022,733,SA,Ecuador,EC,"Sucumbios Province",EC-U,U,"Puerto Putumayo",0,SEPT,PYO,,,https://en.wikipedia.org/wiki/Putumayo_Airport,,50,2024-06-07T10:22:55+00:00
+512679,SEDP,small_airport,"Pukuan Airstrip",-2.101027,-77.15742,1104,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Pukuan,0,SEDP,,,,,,50,2023-09-29T19:10:13+00:00
+41108,SEPU,closed,"Puná Airport",-2.73368,-79.915298,3,SA,Ecuador,EC,"Guayas Province",EC-G,G,Puná,0,,,,,,SEPU,50,2022-11-24T07:50:14+00:00
+512714,SEUV,small_airport,"Putuimi Achuar Airstrip",-2.548547,-77.117863,925,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Putuimi,0,SEUV,,,,,Nases,50,2023-09-30T19:56:47+00:00
+513542,SEUN,small_airport,"Putuntz Airstrip",-2.596584,-77.420483,849,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Putunts,0,SEUN,,,,,,50,2023-10-21T09:41:24+00:00
+6072,SEQE,small_airport,"Quevedo Airport",-0.989013,-79.465571,350,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Quevedo,0,SEQE,,,,,,50,2022-01-14T09:01:35+00:00
+41125,SE15,small_airport,"Quevedo North Airport",-0.9998260140419006,-79.41535949707031,314,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Quevedo,0,SE15,,SE15,,,,50,2008-08-08T17:18:21+00:00
+351439,EC-0037,small_airport,"La Cadena Airport",-0.93109,-79.420359,246,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Quevedo,0,SELC,,,,,Valencia,50,2023-11-19T18:13:35+00:00
+351440,EC-0038,small_airport,"El Guayabo Airport",-0.98999,-79.43663,207,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Quevedo,0,SEEG,,,,,,50,2023-09-21T13:32:42+00:00
+351441,EC-0039,small_airport,"Agro Aereo Jaramillo Airport",-0.98762,-79.4445,210,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Quevedo,0,SEJL,,,,,,50,2023-09-21T13:48:19+00:00
+323808,EC-0007,small_airport,"Jaime Roldós Airstrip",-1.384429,-76.958553,849,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Quilloalpa,0,SEJR,,,,,Shivacocha,50,2023-10-28T12:34:41+00:00
+512242,EC-0057,small_airport,"Tapatla Airstrip",1.064419,-79.351037,18,SA,Ecuador,EC,"Esmeraldas Province",EC-E,E,Rocafuerte,0,,,,,,,50,2023-09-21T00:08:01+00:00
+512415,SEBT,small_airport,"El Batán Airport",-2.094038,-79.880885,26,SA,Ecuador,EC,"Guayas Province",EC-G,G,Samborondón,0,SEBT,,,,,,50,2023-09-24T14:20:09+00:00
+514256,SEAO,small_airport,"Agromarina Airstrip",-2.453185,-80.066835,5,SA,Ecuador,EC,"Guayas Province",EC-G,G,Samborondón,0,SEAO,,,,,,50,2023-11-03T04:39:53+00:00
+505094,EC-0049,small_airport,"Saraguro Army Airfield",-2.53345,-80.40968,187,SA,Ecuador,EC,"Guayas Province",EC-G,G,"San Antonio de Playas",0,,,,,,,50,2022-11-24T08:05:12+00:00
+515039,SESS,small_airport,"San Carlos Oriente Airstrip",-2.055229,-77.590771,1706,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"San Carlos",0,SESS,,,,,,50,2023-11-16T00:28:45+00:00
+512872,SEED,small_airport,"San Eduardo Airstrip",-0.365597,-77.302946,1001,SA,Ecuador,EC,"Orellana Province",EC-D,D,"San Eduardo",0,SEED,,,,,,50,2023-10-05T00:28:11+00:00
+513380,SEFM,small_airport,"San Francisco de Macuma Airstrip",-2.060004,-77.608323,1689,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"San Francisco de Macuma",0,SEFM,,,,,,50,2023-10-18T00:45:39+00:00
+513959,SEJU,small_airport,"San Juan Airstrip",-2.105596,-77.519023,1635,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"San Juan",0,SEJU,,,,,"Tres Marias",50,2023-10-28T14:17:58+00:00
+514925,SESL,small_airport,"San Lorenzo Airport",1.264791,-78.797094,142,SA,Ecuador,EC,"Esmeraldas Province",EC-E,E,"San Lorenzo",0,SESL,,,,,,50,2023-11-14T12:52:30+00:00
+512269,SEEP,small_airport,"El Piedrero Airport",-2.341612,-79.279642,220,SA,Ecuador,EC,"Cañar Province",EC-F,F,"San Pedro",0,SEEP,,,,,,50,2023-09-21T11:58:22+00:00
+41128,SEAP,small_airport,"Arapicos Airport",-1.8576200008392334,-77.94139862060547,2920,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Sangay,0,SEAP,,,,,,50,2008-08-08T17:18:24+00:00
+6057,SEGZ,small_airport,"Gualaquiza Airport",-3.42321,-78.567001,2640,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Santiago,0,SEGZ,,,,https://en.wikipedia.org/wiki/Gualaquiza_Airport,,50,2023-10-18T21:43:33+00:00
+513815,SEIG,small_airport,"Santiago Airport",-3.049372,-78.010229,999,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Santiago,0,SEIG,,,,,,50,2023-10-26T12:17:50+00:00
+41594,EC-MZD,small_airport,"Méndez Airport",-2.733330011367798,-78.31670379638672,1770,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Santiago de Méndez",0,,MZD,,,,,50,2008-08-27T07:58:13+00:00
+6077,SESD,small_airport,"Santo Domingo de Los Colorados Airport",-0.248288,-79.209062,1640,SA,Ecuador,EC,"Santo Domingo de los Tsáchilas Province",EC-26,26,"Santo Domingo de Los Colorades",0,SESD,,,,,,50,2023-09-22T16:56:34+00:00
+323812,EC-0011,small_airport,"Sarayaku Airstrip",-1.739358,-77.485087,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Sarayaku,0,,,,,,,50,2017-06-12T12:27:20+00:00
+513812,SEIF,small_airport,"Sasain Airstrip",-2.261075,-77.33273,1150,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Sasain,0,SEIF,,,,,Taisha,50,2023-10-26T11:52:28+00:00
+513036,SEEU,small_airport,"Setuch Airstrip",-2.794536,-77.281829,899,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Setuch,0,SEEU,,,,,Situchi,50,2023-10-08T13:53:22+00:00
+324029,EC-0027,small_airport,"Shaimi Airstrip",-1.926173,-77.505011,1464,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Shaimi,0,SEHX,,,,,Tutaguana,50,2023-10-25T19:14:04+00:00
+324026,EC-0024,small_airport,"Sharamentza Airstrip",-2.463387,-76.992629,997,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Sharamentza,0,SEAW,,,,,"Jibaría Añangu",50,2023-09-22T23:09:27+00:00
+6078,SESM,small_airport,"Rio Amazonas Airport",-1.50524,-78.062698,3465,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Shell Mera",0,SESM,PTZ,,,https://en.wikipedia.org/wiki/Rio_Amazonas_Airport,,50,2023-11-14T13:00:56+00:00
+513040,SEEZ,small_airport,"Shiramentza Airstrip",-2.750557,-77.556644,738,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Shiramentza,0,SEEZ,,,,,,50,2023-10-08T14:39:43+00:00
+514911,SESF,small_airport,"Shushufindi Airport",-0.195626,-76.648237,844,SA,Ecuador,EC,"Sucumbios Province",EC-U,U,Shushufind,0,SESF,,,,,"San Francisco",50,2023-11-14T10:08:43+00:00
+513771,SEHW,small_airport,"Shuwin Mamus Airstrip",-2.465768,-77.039586,899,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Shuwin Mamus",0,SEHW,,,,,"Shuin, Shuim",50,2023-10-25T18:59:23+00:00
+32391,SESC,small_airport,"Sucúa Airport",-2.474201,-78.169041,3116,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Sucúa,0,SESC,SUQ,,,https://en.wikipedia.org/wiki/Suc%C3%BAa_Airport,,50,2023-11-13T23:22:06+00:00
+512404,SEZR,small_airport,"Surik Nuevo Airstrip",-2.598404,-77.089405,1099,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Surikentza,0,SEZR,,,,,,50,2023-09-24T11:44:33+00:00
+32477,SETH,small_airport,"Taisha Airport",-2.38167,-77.5028,1669,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Taisha,0,SETH,TSC,,,https://en.wikipedia.org/wiki/Taisha_Airport,,50,2024-05-16T20:26:55+00:00
+513956,SEJT,small_airport,"San José de Taisha Airstrip",-2.389295,-77.509117,1457,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Taisha,0,SEJT,,,,,,50,2023-10-28T14:00:27+00:00
+514029,SEKN,small_airport,"Kaniats Airstrip",-2.710571,-77.505235,760,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Taisha,0,SEKN,,,,,,50,2023-10-29T14:07:28+00:00
+517373,SEUI,small_airport,"Kusuimi Airstrip",-2.72319,-77.681991,720,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Taisha,0,SEUI,,,,,,50,2023-12-19T13:02:33+00:00
+512400,SEZM,small_airport,"Tamantza Airstrip",-2.159088,-77.613177,2202,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Tamantza,0,SEZM,,,,,,50,2023-09-24T11:10:59+00:00
+505097,EC-0052,small_airport,"Tambillo Airport",-0.40349,-78.52983,8888,SA,Ecuador,EC,"Chimborazo Province",EC-H,H,Tambillo,0,,,,,,,50,2022-11-24T08:44:18+00:00
+324038,EC-0032,small_airport,"Tambo Airstrip",-1.873892,-76.773644,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Tambo,0,,,,,,,50,2017-06-30T07:10:14+00:00
+324037,EC-0031,small_airport,"Tambo Borja Airstrip",-2.36646,-76.513774,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Tambo Borja",0,,,,,,,50,2017-06-23T06:55:35+00:00
+513419,SEGN,small_airport,"Tanguntza Airstrip",-2.037239,-76.473366,684,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Tanguntza,0,SEGN,,,,,,50,2023-10-18T17:46:45+00:00
+323809,EC-0008,small_airport,"Taracoa Airstrip",-1.368989,-76.947394,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Taracoa,0,,,,,,,50,2017-06-12T12:20:57+00:00
+513426,SEGT,small_airport,"Tarangaro Airstrip",-1.400583,-77.383055,1085,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Tarangaro,0,SEGT,,,,,,50,2023-10-18T21:08:08+00:00
+512712,SEWG,small_airport,"Tarimiant Airstrip",-2.547432,-77.088446,801,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Tarimiant,0,SEWG,,,,,Putuim,50,2023-09-30T19:38:26+00:00
+512880,SEEK,small_airport,"Tekerika Suraka Airstrip",-1.954569,-76.554826,1001,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Tekerika Suraka",0,SEEK,,,,,,50,2023-10-05T03:06:09+00:00
+6082,SETE,small_airport,"Mayor Galo Torres Airport",-0.986767,-77.819504,1708,SA,Ecuador,EC,"Napo Province",EC-N,N,Tena,0,SETE,,,,https://en.wikipedia.org/wiki/Mayor_Galo_de_la_Torre_Airport,,50,2024-05-18T22:47:02+00:00
+41110,SETG,small_airport,"Tenguel Airport",-2.998017,-79.795922,33,SA,Ecuador,EC,"Guayas Province",EC-G,G,Tenguel,0,SETG,,,,,,50,2022-11-24T07:45:57+00:00
+323813,EC-0012,small_airport,"Teresa Mama Airstrip",-1.923175,-77.211526,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Teresa Mama",0,,,,,,,50,2017-06-12T12:39:19+00:00
+32473,SETI,small_airport,"Tiputini Airport",-0.776111,-75.526398,997,SA,Ecuador,EC,"Orellana Province",EC-D,D,Tiputini,0,SETI,TPN,,,https://en.wikipedia.org/wiki/Tiputini_Airport,,50,2024-05-16T20:27:16+00:00
+517394,SETW,small_airport,"Tiwaeno Airstrip",-1.321658,-77.455634,1210,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Tiwaeno,0,SETW,,,,,,50,2023-12-19T16:28:08+00:00
+512586,SEXT,small_airport,"Tres Marias Airport",-2.09426,-77.551003,1703,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Tres Marias",0,SEXT,,,,,Ayuy,50,2023-09-27T12:07:52+00:00
+351443,EC-0041,small_airport,"Banastru Airport",-1.98576,-79.62703,20,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Tres Postes",0,SEBS,,,,,,50,2023-09-24T13:57:14+00:00
+514923,SESK,small_airport,"Tsunkintza Airstrip",-2.663498,-77.110696,880,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Tsunkintza,0,SESK,,,,,Chumbela,50,2023-11-14T11:51:02+00:00
+512367,SEZE,small_airport,"Tzapapentza Airstrip",-2.831069,-77.369267,797,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Tzapapentza,0,SEZE,,,,,,50,2023-09-23T13:21:02+00:00
+512402,SEZN,small_airport,"Tzapino Airstrip",-1.188339,-77.230792,1079,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Tzapino,0,SEZN,,,,,,50,2023-09-24T11:29:50+00:00
+513547,SEUQ,small_airport,"Untsurientsa Airstrip",-2.452778,-77.917728,2100,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Untsuri Entsa",0,SEUQ,,,,,,50,2023-10-29T16:34:54+00:00
+513550,SEUW,small_airport,"Unswantz Airstrip",-2.555542,-77.898885,1849,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Uunt Suants",0,SEUW,,,,,,50,2023-10-21T13:43:05+00:00
+513556,SEUY,small_airport,"Uyuimi Airstrip",-1.828889,-77.676389,1621,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Uyuimi,0,SEUY,,,,,,50,2023-10-21T15:34:22+00:00
+351442,EC-0040,small_airport,"Esterito Airport",-0.94007,-79.31379,420,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Valencia,0,SEVL,,,,,"San Pablo",50,2023-09-21T15:05:48+00:00
+512337,SEAZ,small_airport,"Costa Azul Airstrip",-0.873078,-79.327704,79,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Valencia,0,SEAZ,,,,,,50,2023-09-22T23:44:23+00:00
+514254,SEAJ,small_airport,"San Alejandro Airport",-0.881361,-79.396645,407,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Valencia,0,SEAJ,,,https://www.airhistory.net/photo/55957,,,50,2023-11-03T04:16:44+00:00
+518568,SEOY,small_airport,"Pantalony Airport",-0.841075,-79.288232,515,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Valencia,0,SEOY,,,,,"Paenisola, Naranjal",50,2024-01-07T01:27:20+00:00
+514833,SEKS,small_airport,"Kaspaim Airstrip",-2.828304,-77.71069,680,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,"Vargas Guerra",0,SEKS,,,,,,50,2023-11-12T22:46:42+00:00
+512411,SEBO,small_airport,"Bototillal Airstrip",-1.423874,-79.396144,259,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Ventanas,0,SEBO,,,,,,50,2023-09-24T13:27:12+00:00
+6059,SEKK,small_airport,"Km 192 Airport",0.18465,-79.391181,1247,SA,Ecuador,EC,"Esmeraldas Province",EC-E,E,"Vía Quinindé-La Concordia",0,SEKK,,,,,"Lagartera, La Unión",50,2023-10-29T13:20:52+00:00
+323855,EC-0018,small_airport,"Villano Airstrip",-1.502584,-77.327519,,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Villano,0,,,,,,,50,2017-06-14T09:18:16+00:00
+2175,SE10,small_airport,"Vinces Airport",-1.59611,-79.726097,32,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Vinces,0,SEVN,,,,,SE10,50,2023-12-18T20:48:51+00:00
+6081,SETA,small_airport,"Taura Air Base",-2.26104,-79.680199,56,SA,Ecuador,EC,"Guayas Province",EC-G,G,"Virgen de Fatima",0,SETA,,,,https://en.wikipedia.org/wiki/Taura_Air_Base,,50,2024-05-18T22:46:50+00:00
+512686,SEWA,small_airport,"Wachirpas Airstrip",-2.573494,-76.806843,850,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Wachirpas,0,SEWA,,,,,,50,2023-09-30T01:02:09+00:00
+324035,EC-0030,small_airport,"Wampuik Airstrip",-2.61555,-77.023164,834,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Wampuik,0,SEWP,,,,,,50,2023-10-08T15:18:21+00:00
+513044,SEWR,small_airport,"Warientza Airstrip",-3.169647,-78.26025,2904,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Warientza,0,SEWR,,,,,,50,2023-10-08T15:31:21+00:00
+513084,SEWT,small_airport,"Waruintza Airstrip",-2.610352,-77.182968,851,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Waruintza,0,SEWT,,,,,Waruints,50,2023-10-09T14:31:25+00:00
+324034,EC-0029,small_airport,"Wasakentza Airstrip",-2.543927,-77.199249,,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Wasakentza,0,,,,,,,50,2017-06-22T15:19:54+00:00
+512188,SEWZ,small_airport,"Washintsa Airport",-2.738798,-77.279803,854,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Washintsa,0,SEWZ,,,,,,50,2023-09-19T13:02:58+00:00
+512184,SEWH,small_airport,"Washintza Airport",-2.037259,-77.562323,1900,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Washintza,0,SEWH,,,,,,50,2023-09-19T12:40:40+00:00
+512718,SEWK,small_airport,"Wasurak Airstrip",-2.576955,-77.346225,899,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Wasurak,0,SEWK,,,,,,50,2023-09-30T20:25:53+00:00
+513089,SEWY,small_airport,"Wayusentsa Airstrip",-2.441689,-76.916739,858,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Wayusentsa,0,SEWY,,,,,Wayusentza,50,2023-10-09T15:47:14+00:00
+512688,SEWE,small_airport,"Wentado Airstrip",-1.023494,-77.22108,1152,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Wentado,0,SEWE,,,,,Nenkipare,50,2023-09-30T01:21:39+00:00
+512716,SEWI,small_airport,"Wichimi Airstrip",-2.742677,-77.370289,801,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Wichimi,0,SEWI,,,,,,50,2023-09-30T20:14:07+00:00
+512721,SEWM,small_airport,"Wiririma Airstrip",-1.958333,-76.146667,801,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Wiririma,0,SEWM,,,,,,50,2023-09-30T20:57:00+00:00
+513085,SEWU,small_airport,"Wisui Airstrip",-2.113471,-77.738423,2149,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Wisui,0,SEWU,,,,,,50,2023-10-09T14:57:47+00:00
+512749,SEWN,small_airport,"Wusui Norte Airstrip",-2.087305,-77.491704,1499,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,"Wusui Norte",0,SEWN,,,,,,50,2023-10-01T22:54:14+00:00
+512478,SEYP,small_airport,"Yaapi Airstrip",-2.825404,-77.928979,1250,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yaapi,0,SEYP,,,,,,50,2023-09-25T14:00:18+00:00
+513949,SEJG,small_airport,"San Jacinto Airport",-2.084547,-79.672864,11,SA,Ecuador,EC,"Guayas Province",EC-G,G,Yaguachi,0,SEJG,,,,,,50,2023-10-28T11:36:41+00:00
+512493,SEYX,small_airport,"Yamaran Airstrip",-2.223304,-77.54792,1703,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yamaran,0,SEYX,,,,,,50,2023-09-25T22:10:36+00:00
+512472,SEYM,small_airport,"Yampuna Airstrip",-2.12698,-77.513906,1499,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yampuna,0,SEYM,,,,,,50,2023-09-25T12:45:01+00:00
+512475,SEYN,small_airport,"Yanayaku Airstrip",-1.953868,-76.101964,801,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Yanayaku,0,SEYN,,,,,,50,2023-09-25T13:42:35+00:00
+512469,SEYK,small_airport,"Yankuntza Airstrip",-2.68365,-77.309595,817,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yankuntza,0,SEYK,,,,,,50,2023-09-25T12:32:02+00:00
+512480,SEYS,small_airport,"Yasnunka Airstrip",-2.650484,-77.399815,801,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yasnunka,0,SEYS,,,,,,50,2023-09-25T14:27:36+00:00
+324030,EC-0028,small_airport,"Yaupi Airstrip",-2.852197,-77.942373,1250,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yaupi,0,SEYA,,,,,,50,2023-09-24T19:04:06+00:00
+512489,SEYW,small_airport,"Yawaentza Airstrip",-2.783602,-77.45764,899,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yawaentza,0,SEYW,,,,,,50,2023-09-25T21:41:51+00:00
+512487,SEYT,small_airport,"Yutsuntz Airstrip",-2.350797,-76.45388,899,SA,Ecuador,EC,"Pastaza Province",EC-Y,Y,Yutsuntz,0,SEYT,,,,,,50,2023-09-25T21:01:41+00:00
+324022,EC-0020,small_airport,"Yuvientza Airstrip",-2.164911,-77.57744,1699,SA,Ecuador,EC,"Morona-Santiago Province",EC-S,S,Yuvientza,0,SEYV,,,,,Yuwints,50,2023-09-25T21:23:08+00:00
+515480,SELV,small_airport,"La Virgen Airport",-1.225142,-79.50581,110,SA,Ecuador,EC,"Los Rios Province",EC-R,R,Zapotal,0,SELV,,,,,,50,2023-11-21T16:23:59+00:00
+505101,EC-0055,closed,"Cayambe Airport",0.057,-78.13857,9291,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Cayambe,0,,,,,,,0,2022-11-24T09:44:39+00:00
+512292,SEAG,heliport,"Aringcon S.A. Heliport",-2.164471,-79.847522,10,SA,Ecuador,EC,"Guayas Province",EC-G,G,Durán,0,SEAG,,,,,,0,2023-09-22T02:09:00+00:00
+518561,SEOS,heliport,"Omarsa Heliport",-2.186138,-79.859172,12,SA,Ecuador,EC,"Guayas Province",EC-G,G,Durán,0,SEOS,,,,,,0,2024-01-06T23:13:44+00:00
+41101,SE12,heliport,"Canal Uno Heliport",-2.165556,-79.896942,12,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayaquil,0,SEUO,,,,,SE12,0,2023-10-21T10:03:58+00:00
+41103,SE17,heliport,"Pepsicola Heliport",-2.118989,-79.934982,15,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayaquil,0,SEXO,,,,,SE17,0,2023-09-27T11:28:50+00:00
+505096,EC-0051,heliport,"Los Ceibos Hospital Heliport",-2.17613,-79.94109,,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayaquil,0,,,,,,,0,2022-11-24T08:17:41+00:00
+513424,SEGQ,heliport,"Clínica Guayaquil Helipad",-2.185295,-79.880227,72,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayaquil,0,SEGQ,,,,,,0,2023-10-18T20:44:15+00:00
+513429,SEGX,heliport,"Alpagro Heliport",-2.087116,-79.688834,16,SA,Ecuador,EC,"Guayas Province",EC-G,G,Guayas,0,SEGX,,,,,,0,2023-10-18T21:30:36+00:00
+505091,EC-0046,closed,"Huaquillas Airport",-3.45926,-80.19701,13,SA,Ecuador,EC,"El Oro Province",EC-O,O,Huaquillas,0,,,,,,,0,2022-11-24T07:37:09+00:00
+308084,EC-0002,closed,"Seymour Island Airfield",-0.472063,-90.287704,,SA,Ecuador,EC,"Galapagos Province",EC-W,W,"Isla Baltra",0,,,,,https://en.wikipedia.org/wiki/Baltra_Island,,0,2022-01-14T14:43:10+00:00
+41100,SE06,heliport,"Palobamba Heliport",-2.1902780532836914,-80.024169921875,22,SA,Ecuador,EC,"Guayas Province",EC-G,G,Lérida,0,SE06,,SE06,,,,0,2008-08-08T17:17:49+00:00
+512907,SEEH,heliport,"Heligro Heliport",-1.832222,-79.449722,28,SA,Ecuador,EC,"Los Rios Province",EC-R,R,"Los Ríos",0,SEEH,,,,,,0,2023-10-06T12:42:07+00:00
+41122,SE07,heliport,"Aviandina Heliport",-3.263056,-79.96167,13,SA,Ecuador,EC,"El Oro Province",EC-O,O,Machala,0,SEXV,,,,,SE07,0,2023-09-27T12:25:25+00:00
+353416,EC-0044,heliport,"Mar y Cielo Heliport",-3.28783,-79.92046,36,SA,Ecuador,EC,"El Oro Province",EC-O,O,Machala,0,,,,,,,0,2022-03-08T21:04:11+00:00
+41115,SE04,heliport,"La Fabril Heliport",-0.995765,-80.688436,40,SA,Ecuador,EC,"Manabi Province",EC-M,M,Manta,0,SEXF,,,,,SE04,0,2023-09-27T00:59:45+00:00
+512293,SEAI,heliport,"Adria Heliport",-0.948005,-80.750853,98,SA,Ecuador,EC,"Manabi Province",EC-M,M,Manta,0,SEAI,,,,,,0,2023-09-22T02:32:00+00:00
+512672,SEDL,heliport,"Delipesca Heliport",-0.929935,-80.664091,52,SA,Ecuador,EC,"Manabi Province",EC-M,M,Manta,0,SEDL,,,,,,0,2023-09-29T18:16:30+00:00
+512874,SEEF,heliport,"Eurofish Manta Heliport",-1.008925,-80.690226,354,SA,Ecuador,EC,"Manabi Province",EC-M,M,Manta,0,SEEF,,,,,,0,2023-10-05T00:49:21+00:00
+513437,SEHF,heliport,"Helidegfer Heliport",-0.973032,-80.651808,174,SA,Ecuador,EC,"Manabi Province",EC-M,M,Manta,0,SEHF,,,,,,0,2023-10-18T23:22:13+00:00
+513511,EC-0059,heliport,"León Becerra Hospital Heliport",-2.12665,-79.58841,36,SA,Ecuador,EC,"Guayas Province",EC-G,G,Milagro,0,,,,,,,0,2023-10-21T00:20:42+00:00
+513512,EC-0060,heliport,"IESS Milagro Hospital Heliport",-2.131837,-79.578722,,SA,Ecuador,EC,"Guayas Province",EC-G,G,Milagro,0,,,,,,,0,2023-10-21T00:36:30+00:00
+41099,SE05,heliport,"Posorja Heliport",-2.7316670417785645,-80.24583435058594,18,SA,Ecuador,EC,"Guayas Province",EC-G,G,Posorja,0,SE05,,SE05,,,,0,2008-08-08T17:17:48+00:00
+512365,SEZD,heliport,"Luz de Mar Heliport",-1.333578,-80.748832,40,SA,Ecuador,EC,"Manabi Province",EC-M,M,"Puerto Cayo",0,SEZD,,,,,,0,2023-09-23T12:44:35+00:00
+351444,EC-0042,heliport,"Floreana Heliport",-1.27676,-90.48181,138,SA,Ecuador,EC,"Galapagos Province",EC-W,W,"Puerto Velasco Ibarra",0,,,,,,,0,2022-01-14T14:40:12+00:00
+505099,EC-0053,heliport,"Mitad del Mundo Heliport",-0.00327,-78.45354,8094,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Quito,0,,,,,,,0,2022-11-24T09:21:53+00:00
+505100,EC-0054,heliport,"DGAC Heliport",-0.23626,-78.47779,10010,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Quito,0,,,,,,"Dirección General de Aviación Civil",0,2022-11-24T09:25:04+00:00
+512919,SEES,heliport,"Endesa Heliport",-0.288714,-78.540891,9400,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Quito,0,SEES,,,,,,0,2023-10-05T14:11:27+00:00
+512243,EC-0058,closed,"Haciendó Acapulco Airstrip",1.110251,-79.137712,12,SA,Ecuador,EC,"Esmeraldas Province",EC-E,E,Rompido,0,,,,,,,0,2023-09-21T00:36:21+00:00
+512330,SEAV,heliport,"Teniente Pablo Valdéz Carvallo Heliport",-3.446531,-79.980131,23,SA,Ecuador,EC,"El Oro Province",EC-O,O,"Santa Rosa",0,SEAV,,,,,,0,2023-09-22T20:55:06+00:00
+515472,SELN,heliport,"Belén Heliport",-0.241944,-79.3125,1140,SA,Ecuador,EC,"Santo Domingo de los Tsáchilas Province",EC-26,26,"Santo Domingo de los Tsáchilas",0,SELN,,,,,,0,2023-11-21T14:31:13+00:00
+512910,SEEM,heliport,"Emsecor Heliport",-0.222535,-78.377947,8000,SA,Ecuador,EC,"Pichincha Province",EC-P,P,Tumbaco,0,SEEM,,,,,,0,2023-10-05T12:13:17+00:00
